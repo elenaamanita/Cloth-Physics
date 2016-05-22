@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Window.unity
+- path: Assets/Scenes/working cloth.unity
   isLoaded: 1
   isActive: 1
